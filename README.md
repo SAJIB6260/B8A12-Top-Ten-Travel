@@ -2,10 +2,7 @@
 # Assignment Category: assignment12_category_0002 (Top Ten Travel)
 # Admin email:admin@admin.com
 # Admin password: Admin@123
-# Front-end Live Site firebase Link: https://top-ten-travel-6201b.web.app/
-# Front-end Live Site netlify Link: https://statuesque-beignet-1cf4a9.netlify.app/
-# Client Side Github Repository Link: https://github.com/programming-hero-web-course1/b8a12-client-side-SAJIB6260
-# Server Side Github Repository Link: https://github.com/programming-hero-web-course1/b8a12-server-side-SAJIB6260
+# Front-end Live Site netlify Link: https://darling-horse-d308ec.netlify.app/
 
 
 # Five  Bullet Points
